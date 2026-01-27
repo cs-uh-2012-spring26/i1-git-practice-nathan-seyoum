@@ -9,3 +9,5 @@ I also like how it talks about things like Agile, DevOps, and teamwork, because 
 
 Proof Reading: Article checked for typos
 
+### Comment
+Daewoong Lim: Inspring article!
