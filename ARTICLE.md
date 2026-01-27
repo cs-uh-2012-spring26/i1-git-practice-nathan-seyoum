@@ -7,3 +7,5 @@ As a student taking a Software Engineering class, I think this article is intere
 I also like how it talks about things like Agile, DevOps, and teamwork, because it makes me realize that being a software engineer is just as much about collaboration and problem solving as it is about programming. It helps me understand where I might be heading in future classes, internships, or jobs, and makes SWE feel like a feasible career path.
 
 
+Proof Reading: Article checked for typos
+
