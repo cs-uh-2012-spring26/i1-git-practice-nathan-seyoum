@@ -6,6 +6,7 @@ As a student taking a Software Engineering class, I think this article is intere
 
 I also like how it talks about things like Agile, DevOps, and teamwork, because it makes me realize that being a software engineer is just as much about collaboration and problem solving as it is about programming. It helps me understand where I might be heading in future classes, internships, or jobs, and makes SWE feel like a feasible career path.
 
+Amena: I enjoyed reading this article because it clearly breaks down all the key ideas of software engineering, whether its: types of software, who's involved with developing the software, the process, etc.
 
 Proof Reading: Article checked for typos
 
