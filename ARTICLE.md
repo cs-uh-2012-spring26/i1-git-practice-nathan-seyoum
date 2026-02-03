@@ -10,4 +10,3 @@ Amena: I enjoyed reading this article because it clearly breaks down all the key
 
 Proof Reading: Article checked for typos
 
-The repo I forked: https://github.com/cs-uh-2012-spring26/i1-git-practice-dhyeyvk
